@@ -1,4 +1,4 @@
-//A code file
+//A code file by Diksha Malik
 #include <iostream>
 using namespace std;
 
