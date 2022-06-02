@@ -1,5 +1,4 @@
-
-//A code file by Diksha Malik 0446
+//DIKSHA MALIK'S CODE---------2110990446
 //2ND YEAR
 #include <iostream>
 using namespace std;
