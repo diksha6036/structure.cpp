@@ -1,4 +1,4 @@
-//A code file by Diksha Malik 0446
+//A code file
 #include <iostream>
 using namespace std;
 
