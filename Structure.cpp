@@ -1,5 +1,4 @@
-
-//A code file by Diksha Malik 0446
+//Code by DIKSHA 2110990446
 // BE CSE
 #include <iostream>
 using namespace std;
