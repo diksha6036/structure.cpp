@@ -20,9 +20,9 @@ int main()
     diksha.second = 'd';
     diksha.third = true;
 
-    cout<<"The value of first is: "<<diksha.first<<endl;
-    cout<<"The value of second is: "<<diksha.second<<endl;
-    cout<<"The value of third is: "<<diksha.third<<endl;
+    cout<<"The value of first is: "<<diksha.first<<endl; //1
+    cout<<"The value of second is: "<<diksha.second<<endl; //2
+    cout<<"The value of third is: "<<diksha.third<<endl; //3
 
     return 0;
 }
