@@ -1,4 +1,3 @@
-//A code file by Diksha Malik 0446
 #include <iostream>
 using namespace std;
 
